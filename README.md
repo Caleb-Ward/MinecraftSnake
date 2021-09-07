@@ -1,23 +1,22 @@
-![Image of Main Menu](https://github.com/Caleb-Ward/MinecraftSnake/blob/main/MainMenu.jpg?raw=true)
-------------------------------- RUNNING THE GAME --------------------------------
-* Either double click the .jar or .exe file inside main
-  Or open the java project in a code editior with java complier then build and run the code
-  
-//----------------------------------- CONTROLS --------------------------------//
+![Image of Main Menu](https://github.com/Caleb-Ward/MinecraftSnake/blob/main/MainMenu.JPG?raw=true)
 
-  ------------- IN GAME -------------
+# RUNNING THE GAME
+* Either double click the .jar or .exe file inside main
+* Or open the java project in a code editior with java complier then build and run the code
+  
+# CONTROLS
+## IN GAME
 * [←↕→] Arrow Keys for movement
 * [P] To pause
 * [Escape] to go to Main Menu/Quit
 
-  -------------- MENU ---------------
+## MENU
 * [Enter] To Play
 * [O] for Options
 * [H] for Help
 * [Escape] to Quit
-![Image of Gameplay](https://github.com/Caleb-Ward/MinecraftSnake/blob/main/Start.jpg?raw=true)
 
-//-------------------------------------- ADDED FEATURES ---------------------------------------//
+# FEATURES
 * TNT item which hitting reduces tail and score by 1
 * Random gems each time a new one is spawned
 * Hovering text above collisions eg, items show +/-1 for gems/TNT and walls/lava display "ow"
@@ -31,7 +30,10 @@
 * Animations for portal entry, lava, explosions and score changes
 * Created smooth movement by interpolating snake position between frame updates
 
-//----------------------------------------- CHALLENGES ----------------------------------------//
+![Image of Gameplay](https://github.com/Caleb-Ward/MinecraftSnake/blob/main/Start.JPG?raw=true)
+![Image of Gameplay](https://github.com/Caleb-Ward/MinecraftSnake/blob/main/Rect.JPG?raw=true)
+
+# CHALLENGES
 
 * If multiple keys are pressed snake would go back on self so direction key presses are added 
   to an array and processed only if the snake has moved to a new cell 
@@ -43,7 +45,7 @@
 * Deciding which features to add and which to leave within the timeframe as it is better to have
   less fully implemented features than a lot of half done ones
 
-//------------------------------------ THINGS THAT COULD BE IMPROVED ---------------------------//
+# THINGS THAT COULD BE IMPROVED
 
 * More options such as speed, different obstacles, texture themes, multiplayer or key mapping
   selection such as WASD instead of arrow keys.
@@ -59,7 +61,7 @@
 * Different item types eg ones to increase lives, double score, or temporarily allow player to 
   pass through themselves
 
-//---------------------------------------- RESOURCES USED --------------------------------------//
+# RESOURCES USED
 
 * Centering text help
 https://www.tutorialspoint.com/what-are-the-differences-between-a-font-and-a-fontmetrics-in-java
