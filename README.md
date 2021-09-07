@@ -1,9 +1,10 @@
-![Image of Main Menu](https://github.com/Caleb-Ward/MinecraftSnake/MainMenu.png)
+![Image of Main Menu](https://github.com/Caleb-Ward/MinecraftSnake/main/MainMenu.png)
 ------------------------------------- RUNNING THE GAME --------------------------------------
 * Extract the zip folder's contents
 * Either double click the .jar or .exe file inside the first folder
   Or open the java project in a code editior with java complier then build and run the code
 //----------------------------------------- CONTROLS ------------------------------------------//
+
   ------------- IN GAME -------------
 * [←↕→] Arrow Keys for movement
 * [P] To pause
@@ -13,7 +14,7 @@
 * [O] for Options
 * [H] for Help
 * [Escape] to Quit
-![Image of Inital Play](https://github.com/Caleb-Ward/MinecraftSnake/start.png)
+![Image of Inital Play](https://github.com/Caleb-Ward/MinecraftSnake/main/start.png)
 //-------------------------------------- ADDED FEATURES ---------------------------------------//
 * TNT item which hitting reduces tail and score by 1
 * Random gems each time a new one is spawned
