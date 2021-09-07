@@ -1,3 +1,4 @@
+![Screenshot](MainMenu.jpg)
 ------------------------------------- RUNNING THE GAME --------------------------------------
 * Extract the zip folder's contents
 * Either double click the .jar or .exe file inside the first folder
@@ -12,7 +13,7 @@
 * [O] for Options
 * [H] for Help
 * [Escape] to Quit
-
+![Screenshot](start.jpg)
 //-------------------------------------- ADDED FEATURES ---------------------------------------//
 * TNT item which hitting reduces tail and score by 1
 * Random gems each time a new one is spawned
